@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/context.js"],"names":["ControllerContext","React","createContext"],"mappings":";;;;;;;AAAA;;;;;;AAEO,IAAMA,gDAAoBC,gBAAMC,aAAN,CAAoB,IAApB,CAA1B","file":"context.js","sourcesContent":["import React from 'react'\n\nexport const ControllerContext = React.createContext(null);"]}
